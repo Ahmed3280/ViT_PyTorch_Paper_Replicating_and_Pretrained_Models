@@ -12,15 +12,23 @@ This project explores both a from scratch implementation and experiments using t
 📈 Results Summary
 
 ViT (DEFAULT Pretrained)
+
 ✅ Final Train Accuracy: 98.05%
+
 ✅ Final Test Accuracy: 93.89%
+
 🏆 Best Test Accuracy: 97.66% at Epoch 5
+
 🕐 Epochs: 10
 
 ViT (SWAG Pretrained)
+
 ✅ Final Train Accuracy: 98.22%
+
 ✅ Final Test Accuracy: 98.67%
+
 🏆 Best Test Accuracy: 98.67% (Epochs 6–10)
+
 🕐 Epochs: 10
 
 💡 Insights
