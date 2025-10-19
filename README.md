@@ -1,6 +1,6 @@
 # VisionTransformer-PyTorch-Reproducing-the-ViT-Paper-From-Scratch-Pretrained
 A PyTorch implementation replicating the Vision Transformer (ViT) paper.
-This project explores both a from-scratch implementation and experiments using torchvision’s pretrained ViT models, including the DEFAULT and SWAG-pretrained weights.
+This project explores both a from scratch implementation and experiments using torchvision’s pretrained ViT models, including the DEFAULT and SWAG pretrained weights.
 
 🚀 Project Overview
 
@@ -26,5 +26,5 @@ ViT (SWAG Pretrained)
 💡 Insights
 
 🔹 Both pretrained models achieved strong generalization with minimal overfitting
-🔹 The SWAG-pretrained ViT converged faster and reached higher accuracy with fewer epochs
-🔹 Results align with the findings from the original ViT paper, highlighting the power of large-scale pretraining for efficient fine-tuning
+🔹 The SWAG pretrained ViT converged faster and reached higher accuracy with fewer epochs
+🔹 Results align with the findings from the original ViT paper, highlighting the power of large scale pretraining for efficient fine-tuning
